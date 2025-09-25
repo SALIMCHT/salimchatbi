@@ -79,6 +79,22 @@
 
 ---
 
+## ✨ Empreinte de développeur  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/fingerprint.gif" width="250"/>
+</p>
+
+<p align="center">
+  <i>"Chaque ligne de code que j’écris laisse une empreinte dans le monde digital."</i>
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/line.gif" width="100%">
 </p>

@@ -3,29 +3,30 @@
   <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/banner.gif" alt="Salim CHATBI | Java Engineer" width="100%">
 </p>
 
-# 👋 Salut, je suis **Salim CHATBI**
+# 👋 Bienvenue, je suis **Salim CHATBI**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=🚀+Ingénieur+Concepteur+Java+☕;⚡+Spring+Boot+%26+Angular;☁+Cloud+Native+%26+DevOps;🛢+Oracle+DBA+%7C+Data+Analytics;✍️+Formateur+%26+Content+Creator+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=🚀+Ingénieur+Concepteur+Java;⚡+Spring+Boot+%26+Angular;☁+Cloud+Native+%26+DevOps;🛢+Oracle+DBA+%7C+Data+Analytics;✍️+Formateur+%26+Content+Creator+IT" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 À propos de moi  
+## 🚀 À propos  
 
-✨ Ingénieur Concepteur **Java** passionné par :  
-- Développement **Spring Boot & Angular**  
-- ☁️ **Cloud Native & DevOps**  
-- 🛢️ **Oracle DBA** et administration des bases de données  
-- ✍️ **Formateur & Content Creator IT** (+7K sur LinkedIn & YouTube)  
-- 🎯 Mission : Créer des solutions **scalables, modernes et open source**  
+💼 Ingénieur Concepteur **Java** avec expertise en **applications web & cloud** :  
+- 🔹 Développement **Spring Boot & Angular**  
+- 🔹 Conception orientée **Cloud Native & DevOps**  
+- 🔹 Gestion & optimisation de bases **Oracle / MySQL**  
+- 🔹 Expérience en **formation IT & création de contenu (+7K LinkedIn/YouTube)**  
+
+🎯 Objectif : **Développer des solutions scalables et modernes pour le marché IT**.  
 
 ---
 
 ## 🧰 Stack technique  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,bootstrap,tailwind,oracle,mysql,git,github,docker,kubernetes,linux,aws,azure&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,oracle,mysql,docker,kubernetes,aws,azure,git,github,linux&perline=8" />
 </p>
 
 ---
@@ -37,34 +38,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SALIMCHT&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SALIMCHT&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ## 📂 Projets phares  
 
-🔹 **QualeanPro** — Plateforme d’e-learning (Spring Boot + Angular + MySQL + PayPal/Stripe)  
-🔹 **Dashboard Analytics** — Visualisation de données (Power BI & APIs Spring Boot)  
-🔹 **CoffManager** — Application desktop (JavaFX 21 + SQLite) pour gestion de salons  
-🔹 **Portfolio Web** — Site vitrine pour freelancing et branding IT  
-
----
-
-## 🎬 Démo (animation)  
-
-<p align="center">
-  <img src="./assets/demo.gif" alt="demo project" width="800"/>
-</p>
-
----
-
-## 🤝 Collaboration & Contributions  
-
-- 💡 Contribution aux projets **Java, Spring, Angular**  
-- 🌍 Intérêt pour **Cloud, Data, DevOps**  
-- ✨ Motivation : **partager et apprendre en communauté**  
+- 🎓 **QualeanPro** — Plateforme e-learning (Spring Boot + Angular + MySQL + PayPal/Stripe)  
+- 📊 **Dashboard Analytics** — BI avec Power BI & API Spring Boot  
+- 🛠 **CoffManager** — App desktop JavaFX 21 + SQLite pour salons de coiffure  
+- 🌐 **Portfolio Web** — Site vitrine freelance & branding IT  
 
 ---
 
@@ -74,35 +55,9 @@
   <a href="https://www.linkedin.com/in/salim-chatbi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:salim@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SALIMCHT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
-
-## ✨ Empreinte de développeur  
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/fingerprint.gif" width="250"/>
-</p>
-
-<p align="center">
-  <i>"Chaque ligne de code que j’écris laisse une empreinte dans le monde digital."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/line.gif" width="100%">
-</p>
-
-<p align="center">
-  ⚡ *"Code, Learn, Teach & Share"* — **Salim CHATBI**
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/coding.gif" width="250"/>
+⚡ *"Code. Build. Share."* — **Salim CHATBI**
 </p>

@@ -1,6 +1,6 @@
 <!-- Banner avec une image ou gif (optionnel) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.gif" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SALIMCHT/SALIMCHT/main/assets/banner.gif" alt="banner" width="100%"/>
 </p>
 
 # 👋 Salut, je suis **Salim CHATBI**

@@ -6,9 +6,7 @@
 # 👋 Hey there, I'm **Salim CHATBI**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-chatbi/)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Webitcode)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SalimChatbi)
-[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salim@example.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saliimchatbii@gmail.com)
 
 ### Glad to see you here!  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SALIMCHT&label=Profile%20views&color=0e75b6&style=flat" alt="SALIMCHT" /> </p>

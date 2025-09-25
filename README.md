@@ -1,17 +1,8 @@
-<!-- Banner avec une image ou gif (optionnel) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SALIMCHT/main/assets/banner.gif" alt="banner" width="100%"/>
-</p>
-
 # 👋 Salut, je suis **Salim CHATBI**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=🚀+Ingénieur+Concepteur+Java+☕;⚡+Spring+Boot+%26+Angular;☁+Cloud+Native+%26+DevOps;🛢+Oracle+DBA+%7C+Data+Analytics;✍️+Formateur+%26+Content+Creator+IT" alt="Typing SVG" />
 </p>
-
----
-
-## 🚀 À propos de moi  
 ✨ Je suis un **Ingénieur Concepteur Java** passionné par :  
 - Développement **Spring Boot & Angular**  
 - ☁️ **Cloud Native & DevOps**  

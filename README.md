@@ -35,3 +35,5 @@ databases:
   - Oracle, MySQL, SQLite
 extra: 
   - Formateur IT, Data Analytics, Content Creator
+📊 Code & Mémoire
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SALIMCHT&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=SALIMCHT&theme=radical" height="170"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/> </p>

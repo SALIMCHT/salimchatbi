@@ -6,32 +6,47 @@
 # 👋 Hey there, I'm **Salim CHATBI**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-chatbi/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Webitcode)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saliimchatbii@gmail.com)
 
-### Glad to see you here!  
+### 👨‍💻 Glad to see you here!  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SALIMCHT&label=Profile%20views&color=0e75b6&style=flat" alt="SALIMCHT" /> </p>
 
-I am a **Java Engineer & Full Stack Developer** with expertise in **Spring Boot, Angular, Cloud Native, DevOps, and Oracle DBA**. 🚀  
-I am passionate about building **scalable, modern, and open-source solutions**, and I love **teaching & creating IT content**.
+I am a **Java Engineer & Full Stack Developer** specializing in **Spring Boot, Angular, Cloud Native, DevOps, and Oracle DBA**. 🚀  
+Passionate about **scalable, modern, open-source solutions** and **sharing knowledge through IT content creation**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## ✨ About Me  
 
-<code><img height="27" src="https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,bootstrap,tailwind,oracle,mysql,git,github,docker,kubernetes,linux,aws,azure" /></code>
-
----
-
-### 📂 Projects & Highlights  
-
-- 🎓 **QualeanPro** — Plateforme d’e-learning (Spring Boot + Angular + MySQL + Stripe/PayPal)  
-- 📊 **Dashboard Analytics** — BI et visualisation de données (Power BI + Spring Boot APIs)  
-- 🛠️ **CoffManager** — Application desktop (JavaFX 21 + SQLite) pour salons de coiffure  
-- 🌐 **Portfolio Web** — Site vitrine pour freelancing et branding IT  
+- ☕ **Java & Spring Boot Expert**  
+- ⚡ **Frontend Developer**: Angular & Tailwind CSS  
+- ☁️ **Cloud & DevOps Enthusiast**: AWS, Azure, Docker, Kubernetes  
+- 🛢 **Database Administrator**: Oracle & MySQL  
+- ✍️ **IT Content Creator & Trainer**: +7K followers on LinkedIn & YouTube  
+- 🎯 **Mission**: Build **scalable, maintainable & cloud-ready applications**  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,bootstrap,tailwind,oracle,mysql,git,github,docker,kubernetes,linux,aws,azure&perline=9" />
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+- 🎓 **QualeanPro** — E-learning platform (Spring Boot + Angular + MySQL + Stripe/PayPal)  
+- 📊 **Dashboard Analytics** — Data visualization (Power BI + Spring Boot APIs)  
+- 🛠️ **CoffManager** — Desktop app (JavaFX 21 + SQLite) for salon management  
+- 🌐 **Portfolio Web** — Personal branding & freelancing showcase  
+
+---
+
+## 📊 GitHub Stats
 
 <details>
   <summary><b>⚡ GitHub Activity</b></summary>
@@ -59,7 +74,7 @@ I am passionate about building **scalable, modern, and open-source solutions**, 
 
 ---
 
-### 🎬 Developer Fingerprint & Creativity
+## 🎬 Developer Fingerprint & Creativity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/fingerprint.gif" width="200"/>
@@ -75,12 +90,13 @@ I am passionate about building **scalable, modern, and open-source solutions**, 
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salim-chatbi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:salim@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:saliimchatbii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SALIMCHT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
